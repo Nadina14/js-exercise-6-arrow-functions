@@ -1,0 +1,1 @@
+/* Crea una arrow functio che accetta due numeri come parametri e restituisce la loro sottrazione. */
